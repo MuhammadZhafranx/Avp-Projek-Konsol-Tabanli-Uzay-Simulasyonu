@@ -1,7 +1,7 @@
 # Algoritmalar ve Programlama - Uzay Simülasyonu Projesi
 
-**Hazırlayan:** [Tulis Nama Anda Disini]  
-**Öğrenci No:** [Tulis NIM Anda Disini]  
+**Hazırlayan:** Muhammad Zhafran  
+**Öğrenci No:** 22360859260 
 **Ders:** Algoritmalar ve Programlama  
 **Dönem:** 2025-2026 Güz Dönemi
 
