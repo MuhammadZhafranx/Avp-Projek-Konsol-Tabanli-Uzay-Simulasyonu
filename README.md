@@ -1,9 +1,9 @@
 # Algoritmalar ve Programlama - Uzay Simülasyonu Projesi
 
-**Hazırlayan:** Muhammad Zhafran  
-**Öğrenci No:** 22360859260 
-**Ders:** Algoritmalar ve Programlama  
-**Dönem:** 2025-2026 Güz Dönemi
+**Hazırlayan :** Muhammad Zhafran  
+**Öğrenci No :** 22360859260
+**Ders       :** Algoritmalar ve Programlama  
+**Dönem      :** 2025-2026 Güz Dönemi
 
 ## 🚀 Proje Tanıtımı (Deskripsi Proyek)
 Bu proje, C programlama dili ile geliştirilmiş konsol tabanlı bir uzay simülasyonu uygulamasıdır. Proje, bir bilim insanının Güneş Sistemi'ndeki farklı gezegenlerde (Merkür, Venüs, Dünya, Mars vb.) fizik deneylerini simüle etmesini sağlamaktadır.
