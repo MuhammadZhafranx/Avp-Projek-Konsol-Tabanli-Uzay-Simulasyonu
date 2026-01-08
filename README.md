@@ -5,12 +5,12 @@
 **Ders       :** Algoritmalar ve Programlama  
 **Dönem      :** 2025-2026 Güz Dönemi
 
-## 🚀 Proje Tanıtımı (Deskripsi Proyek)
+## 🚀 Proje Tanıtımı
 Bu proje, C programlama dili ile geliştirilmiş konsol tabanlı bir uzay simülasyonu uygulamasıdır. Proje, bir bilim insanının Güneş Sistemi'ndeki farklı gezegenlerde (Merkür, Venüs, Dünya, Mars vb.) fizik deneylerini simüle etmesini sağlamaktadır.
 
 Program, kullanıcıdan gerekli metrikleri alarak fizik formüllerini uygular ve sonuçları tüm gezegenler için karşılaştırmalı olarak listeler.
 
-## 🧪 Simüle Edilen Deneyler (Fitur Eksperimen)
+## 🧪 Simüle Edilen Deneyler
 Proje kapsamında aşağıdaki 9 fizik deneyi simüle edilmiştir:
 
 1. **Serbest Düşme Deneyi:** Süreye bağlı düşme mesafesi hesabı.
